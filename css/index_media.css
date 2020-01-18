@@ -1,0 +1,793 @@
+@media only screen and (max-width: 1350px){
+	.card{
+		margin-left: 150px;
+	}
+	.fifth_heading{
+	margin-left: 400px;
+	margin-top:200px;
+}
+.fifth_subheading{
+	margin-left: 200px;
+	
+}
+}
+
+@media only screen and (max-width:1334px){
+	.third_heading{
+	padding-left: 300px;
+	padding-top: 100px;
+}
+	.third_subheading{
+	padding-left: 170px;
+
+}
+	.card{
+		margin-left: 150px;
+	}
+}
+
+@media only screen and (max-width: 1291px){
+	.second_heading{
+		padding-left:250px;
+	}
+	.image_heading{
+		font-size: 22px;
+		padding-left: 40px;
+}
+	.icon-div{
+		height:300px;
+		max-width: 300px;
+	}
+	.text-div{
+		height:300px;
+		max-width: 300px;
+	}
+	.icon2{
+		height:300px;
+	}
+}
+@media only screen and (max-width: 1240px){
+
+		.fifth_heading{
+	margin-left: 300px;
+	margin-top:200px;
+}
+.fifth_subheading{
+	margin-left: 100px;
+	
+}
+}
+@media only screen and (max-width:1200px){
+	
+		.card{
+		margin-left: 100px;
+	}
+
+}
+
+
+@media only screen and (max-width: 1199px){
+	.hero-image{
+		height:1200px;
+
+	}
+	.bannerbox1{
+		margin-top: 80px;
+		float: left;
+	}
+}
+
+@media only screen and (max-width: 1129px){
+	.image_heading{
+		padding-left: 30px;
+		font-size: 20px;
+	}
+	.third_heading{
+	padding-left: 250px;
+	padding-top: 100px;
+}
+	.third_subheading{
+	padding-left: 100px;
+}
+	.extra-div{
+		margin-left: 300px;
+	}
+}
+@media only screen and (max-width: 1120px){
+	.second_heading{
+		padding-left:200px;
+	}
+}
+@media only screen and (max-width: 1109px){
+
+	.fifth_heading{
+	margin-left: 300px;
+	margin-top:200px;
+	margin-right: 100px;
+}
+.fifth_subheading{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+}
+@media only screen and (max-width: 1075px){
+
+.third_heading{
+	padding-left: 200px;
+	padding-top: 100px;
+}
+	.third_subheading{
+	padding-left: 50px;
+}
+.fifth_heading{
+		left: 150px;
+
+	}
+}
+@media only screen and (max-width: 1050px){
+	.thrdportion{
+	height:1000px;
+}
+	.extra-div{
+		margin-left: 250px;
+	}
+}
+@media only screen and (max-width: 1039px){
+	.second_heading{
+		padding-left:150px;
+	}
+	.third_heading{
+	padding-left: 100px;
+	padding-top: 100px;
+}
+	.third_subheading{
+	padding-left: 15px;
+}
+}
+
+@media only screen and (max-width: 1025px){
+	
+	.fifth_heading{
+	margin-left: 220px;
+	margin-top:200px;
+	margin-right: 100px;
+}
+.fifth_subheading{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+	.extra-div{
+		margin-left: 150px;
+	}
+
+}
+@media only screen and (max-width: 1012px){
+	.image_heading{
+		padding-left: 10px;
+		font-size: 18px;}
+	}
+@media only screen and (max-width: 998px){
+	.third_heading{
+	padding-left: 100px;
+	padding-top: 100px;
+}
+	.third_subheading{
+	padding-left: 15px;
+}
+
+}
+@media only screen and (max-width: 991px){
+.div-box{
+	height:300px;
+	margin-left: 200px;
+}
+.company-div{
+	margin-left: 200px;
+}
+.sixth-portion{
+	height:650px;
+
+}
+}
+@media only screen and (max-width: 982px){
+	.thrdportion{
+	height:1100px;
+}
+}
+@media only screen and (max-width: 959px){
+	.second_heading{
+		padding-left:150px;
+	}
+}
+
+@media only screen and (max-width: 957px){
+	.second_heading{
+		padding-left:250px;
+		font-size: 24px;
+	}
+	.icon-div{
+		width:200px;
+	}
+
+}
+
+@media only screen and (max-width: 922px){
+	
+	.fifth_heading{
+	margin-left: 170px;
+	margin-top:200px;
+	margin-right: 100px;
+}
+.fifth_subheading{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+}
+@media only screen and (max-width: 871px){
+		.third_heading{
+	padding-left: 50px;
+	padding-top: 100px;
+}
+}
+@media only screen and (max-width: 855px){
+	.image_heading{
+		padding-left: 1px;
+		font-size: 18px;}
+	}
+@media only screen and (max-width: 847px){
+	.fifthportion{
+		height:1500px;
+	}
+	.fifth_heading{
+	margin-left: 100px;
+	margin-top:200px;
+	margin-right: 100px;
+}
+.fifth_subheading{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+	.text-div{
+		margin-top: 260px;
+		margin-left: -200px;
+		width:200px;
+	}
+	.extra-div{
+		margin-left: 250px;
+	}
+	.tick-text{
+	padding-left: 50px;	font-size: 10px;	margin-top: -10px;	margin-bottom: -10px;
+}
+.tick-text1{
+	padding-left: 50px;	font-size: 10px;	margin-top: -1px;	margin-bottom: -15px;
+}.tick-text2{
+	padding-left: 50px;	font-size: 10px;	margin-top: 5px;	margin-bottom: -5px;
+}
+.tick-text3{
+	padding-left: 50px;	font-size: 10px;	margin-top: 1px;
+	}
+.tick-text4{
+	padding-left: 50px;	font-size: 10px;	margin-top: -10px;	margin-bottom: -10px;
+}
+	.frst-img{
+		margin-top: 250px;
+	}
+	.sec-img{
+		margin-top: 250px;
+	}.thrd-img{
+		margin-top: 250px;
+	}
+}
+@media only screen and (max-width: 802px){
+	.third_heading{
+	padding-left: 150px;
+	padding-top: 100px;
+	font-size: 30px;
+}
+}
+@media only screen and (max-width: 783px){
+
+	
+	
+	
+	.fifth_heading{
+	margin-left: 80px;
+	margin-top:200px;
+	margin-right: 100px;
+}
+.fifth_subheading{
+	margin-left: 40px;
+	margin-right: 40px;
+}
+}
+
+@media only screen and (max-width: 767px){
+	.startext{
+		padding-top: -20px;
+		}
+	.hero-image{
+		height:1000px;
+	}
+	.bannerbox{
+		/*height:400px;*/
+	}
+	.pn{
+		padding-left: 5px;
+		width:150px;
+	}
+	.mn{
+	margin-left: 180px;
+	}	
+	.ya{
+		width:250px;
+		padding: 0 100px 0 50px;
+	}
+	.zc{
+		width:150px;
+		padding: 0 0px 0 35px;
+	}
+	.gsn{
+		left:200px;
+	}
+	.secondportion{
+	height:900px;
+
+}
+	.fifthportion{
+		height: 2100px;
+	}
+	.fifth_heading{
+	margin-left: 100px;
+	margin-top:200px;
+	margin-right: 100px;
+	font-size: 36px;
+}
+.fifth_subheading{
+	margin-left: 40px;
+	margin-right: 50px;
+}
+.sec-img{
+		margin-top: 0px;
+	}.thrd-img{
+		margin-top: 0px;
+	}
+.div-box{
+	height:350px;
+	margin-left: 150px;
+}
+.sixth-portion{
+	height: 750px;
+}
+.company-div{
+	margin-left: 150px;
+}
+}
+@media only screen and (max-width: 753px){
+	.second_heading{
+		padding-left:200px;
+		font-size: 24px;
+	}
+}
+
+@media only screen and (max-width: 719px){
+	
+	
+	.fifth_heading{
+	margin-left: 80px;
+	margin-top:200px;
+	margin-right: 100px;
+	font-size: 36px;
+}
+.fifth_subheading{
+	margin-left: 40px;
+	margin-right: 50px;
+}
+	
+}
+@media only screen and (max-width: 700px){
+	.thrdportion{
+	height:1500px;
+}
+
+	.fifth_heading{
+	margin-left: 120px;
+	margin-top:200px;
+	margin-right: 100px;
+	font-size: 30px;
+}
+.fifth_subheading{
+	margin-left: 40px;
+	margin-right: 50px;
+}
+}
+@media only screen and (max-width: 680px){
+	.second_heading{
+		padding-left:100px;
+		font-size: 20px;
+	}
+
+}
+@media only screen and (max-width: 666px){
+	.third_heading{
+	padding-left: 50px;
+	padding-top: 100px;
+	font-size: 30px;
+}
+	.second_heading{
+		padding-left: 150px;
+	}
+	.icon-div{
+		height: 200px;
+	}
+	.text-div{
+		margin-top: 200px;
+	}
+	.icon2{
+		height:200px;
+	}
+}
+@media only screen and (max-width: 652px){
+
+.fifth_heading{
+	margin-left: 100px;
+	margin-top:200px;
+	margin-right: 100px;
+	font-size: 30px;
+}
+.fifth_subheading{
+	margin-left: 40px;
+	margin-right: 50px;
+}
+@media only screen and (max-width: 632px){
+	
+.fifthportion{
+	height:2400px;
+	background-color:#f2f2f2;						
+
+}
+.fifth_heading{
+	margin-left: 70px;
+	margin-top:200px;
+	margin-right: 100px;
+	font-size: 30px;
+}
+.fifth_subheading{
+	margin-left: 40px;
+	margin-right: 50px;
+}
+.company-div{
+	margin-left: 100px;
+}
+}
+@media only screen and (max-width: 609px){
+	.third_heading{
+	padding-left: 50px;
+	padding-top: 100px;
+	font-size: 29px;
+}
+
+	.card{
+		margin-left: 150px;
+	}
+	.fifthportion{
+	height:2400px;
+}
+}
+@media only screen and (max-width: 591px){
+	.hero-image{
+		height:1000px;
+	}
+	.second_heading{
+		padding-left:100px;
+		font-size: 20px;
+	}
+	.third_heading{
+	padding-left: 50px;
+	padding-top: 100px;
+	font-size: 27px;
+}
+
+}
+@media only screen and (max-width: 576px){
+
+.fifthportion{
+	margin-top:-100px; 
+
+}
+}
+@media only screen and (max-width: 575px){
+.secondportion{
+	height:900px;
+}
+	
+	.thirdportion{
+	height:1200px;
+	background-color: grey;
+}
+	
+		.fifthportion{
+	margin-top:400px; 
+
+ 
+}
+	.fifth_heading{
+	margin-left: 70px;
+	margin-top:300px;
+	margin-right: 50px;
+	font-size: 28px;
+}
+.fifth_subheading{
+	margin-left: 40px;
+	margin-right: 50px;
+}
+footer{
+	height: 900px;
+}
+}
+@media only screen and (max-width: 554px){
+	.third_heading{
+	padding-left: 50px;
+	padding-top: 100px;
+	font-size: 25px;
+}	
+.company-div{
+	margin-left: 100px;
+}
+}
+@media only screen and (max-width: 534px){
+
+.sixth-portion{
+	height: 800px;
+}
+}
+@media only screen and (max-width: 533px){
+	.hero-image{
+		height:1200px;
+	}
+	.bannerbox{
+		height:150px;
+	}
+	.boximg{
+		display: none;
+	}
+	.pn{
+		margin-top: -180px; /*here is a problem . i can not use margin top*/
+	}
+	.div_table{
+		display:none;
+	}
+	.extra-div{
+		margin-left: 100px;
+	}
+
+	.bannerbutton{
+		display:initial;
+		height: 50px;
+		margin-left: 
+	}
+}
+@media only screen and (max-width: 520px){
+	.second_heading{
+		padding-left:20px;
+		font-size: 18px;
+	}
+	
+	.third_heading{
+	padding-left: 30px;
+	padding-top: 100px;
+	font-size: 24px;
+}
+	.thirdportion{
+	height:1400px;
+	background-color: grey;
+}
+	.sixth-portion{
+		height: 800px;
+	}
+}
+
+@media only screen and (max-width: 502px){
+	.second_heading{
+		padding-left:10px;
+}
+}
+@media only screen and (max-width: 493px){
+
+.secondportion{
+	height:1000px;
+}
+.company-div{
+	margin-left: 100px;
+}
+.div-box{
+	height:400px;
+}
+.sixth-portion{
+		height: 900px;
+	}
+}
+@media only screen and (max-width: 470px){
+
+	.image_heading{
+		padding-left: 50px;
+		font-size: 20px;}
+	}
+	.card{
+		margin-left: 100px;
+	}
+.div-box{
+	margin-left: 100px;
+}
+}
+@media only screen and (max-width: 465px){
+	.bannerbox1{
+		width:350px;
+	}
+		.card{
+		margin-left: 70px;
+	}
+}
+@media only screen and (max-width: 439px){
+.div-box{
+	height:400px;
+}
+.sixth-portion{
+	height: 900px;
+}
+
+
+@media only screen and (max-width: 414px){
+	.bannerbox1{
+		margin-left: 40px; /*here is a problem . i can not use margin left the div*/
+	}
+	.second_heading{
+		padding-left:30px;
+		font-size: 18px;
+	}
+	.div-box{
+		height:500px;
+	}
+	.sixth-portion{
+		height: 1000px;
+	}
+	.bannerbox1{
+		width:300px;
+		height:350px;
+	}
+	.boximg1{
+		margin-left: 100px;
+	}
+	.box-text{
+		padding-top: 120px;
+		margin-left: -60px;
+	}
+}
+
+
+@media only screen and (max-width: 392px){
+	.hero-image{
+		height:1500px;
+	}
+	.thrdportion{
+	height:1700px;
+}
+}
+@media only screen and (max-width: 382px){
+	.sixth-portion{
+		height: 1000px;
+	}
+}
+@media only screen and (max-width: 375px){
+.div-box{
+	height:500px;
+}
+.sixth-portion{
+	height:1400px;
+}
+.bannerbox{
+	height:200px;
+}
+.bannerbutton{
+	margin-left:50px;
+}
+.boximg{
+	width:100px;
+}
+}
+@media only screen and (max-width: 369px){
+	.bannerbox1{
+		width:200px;
+		height: 450px;
+	}
+	.boximg1{
+		margin-left: 70px;
+	}
+	.box-text{
+		padding-top: 120px;
+		margin-left: -30px;
+
+	}
+}
+
+@media only screen and (max-width: 342px){
+	.secondportion{
+	height:1200px;
+
+}
+.extra-div{
+		margin-left: 50px;
+	}
+}
+@media only screen and (max-width: 360px){
+	.image_heading{
+		padding-left: 50px;
+		font-size: 18px;}
+	}
+	
+	
+}
+@media only screen and (max-width: 362px){
+.sixth-portion{
+	height:1000px;
+}
+.div-box{
+	height:550px;
+}
+}
+@media only screen and (max-width: 344px){
+
+.sixth-portion{
+	height:1100px;
+}
+footer{
+	height: 1100px;
+}
+}
+@media only screen and (max-width: 300px){
+
+.fifthportion{
+	height:2500px;
+}
+.sixth-portion{
+	height:1200px;
+}
+}
+@media only screen and (max-width: 284px){
+
+.extra-div{
+		margin-left: 30px;
+	}
+}
+@media only screen and (max-width: 271px){
+
+.fifthportion{
+	height:2500px;
+}
+.bannerbox1{
+		width:200px;
+		height: 450px;
+		margin-left: -100px;               /*  i can not us e margin-left: */
+	}
+}
+@media only screen and (max-width: 260px){
+	.secondportion{
+	height:1200px;
+
+}
+@media only screen and (max-width: 237px){
+	.secondportion{
+	height:1300px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
